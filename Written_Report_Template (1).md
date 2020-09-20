@@ -24,6 +24,8 @@ The Outcomes Based on Goal allow Louise to see a variety of comparisons in the s
 
 ### Challenges and Difficulties Encountered
 
+No challenges or difficulties encountered, sufficient data for analysis. 
+
 ## Results 	
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
@@ -44,5 +46,5 @@ Some limitations of this data include the omission of what advertising efforts w
 
 2. The outcomes based on the "live" span of the campaign to see if more 'sprint' or 'marathon' campaigns are more successful. 
 
-3. The amount of percentage funded for "plays" to see if it is an overall successful campaign category.  
+3. The amount of percentage funded for "plays" to see if it is an overall successful campaign category  
 
