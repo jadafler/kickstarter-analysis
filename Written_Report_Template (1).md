@@ -12,7 +12,7 @@ The purpose of this analysis is to provide an in-depth look at other campaigns (
 
 The analysis was conducted by organizing the data and correcting and fields to be readable. The Unix Timestamp converter was used to create date/time format; Parent/Subcatagory was split with 'Text to Columns', =years() was used to pull out the data based on annual launch dates, colors were assigned to the different outcomes with the 'Highlight Cells Rules' using 'Equals to', and percentage funded was determined and color shaded. Challenges could be encountered with incorrect formulas and data. 
 
-<img src="Screenshot-UnixTimeConversion.png">
+![Screenshot](img src="Screenshot-UnixTimeConversion.png")
 
 ### Analysis of Outcomes Based on Launch Date
 
